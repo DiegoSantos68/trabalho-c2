@@ -29,32 +29,6 @@ npm run dev
 
 O servidor será iniciado em http://localhost:3000.
 
-## Endpoints Disponíveis
-
-### Usuários
-
-- GET /users: Listar todos os usuários.
-- GET /users/:id: Obter um usuário específico.
-- POST /users: Criar um novo usuário.
-- PUT /users/:id: Atualizar um usuário existente.
-- DELETE /users/:id: Deletar um usuário.
-
-### Posts
-
-- GET /posts: Listar todos os posts.
-- GET /posts/:id: Obter um post específico.
-- POST /posts: Criar um novo post.
-- PUT /posts/:id: Atualizar um post existente.
-- DELETE /posts/:id: Deletar um post.
-
-### Comentários
-
-- GET /comments: Listar todos os comentários.
-- GET /comments/:id: Obter um comentário específico.
-- POST /comments: Criar um novo comentário.
-- PUT /comments/:id: Atualizar um comentário existente.
-- DELETE /comments/:id: Deletar um comentário.
-
 ## Estrutura do Projeto
 
 /src
